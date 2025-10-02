@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\tpii\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\tpii\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\tpii\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\tpii\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\tpii\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\tpii\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\migrations\\20251001234242_criacaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\migrations\\20251001234242_criacaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\tpii\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\documents\\tpii\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\migrations\\20251002001021_criandoentidadeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8E4404-0113-4E3D-8BA2-0F4BEFC5E762}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\migrations\\20251002001021_criandoentidadeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:27:11.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:21:11.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reserva-de-sala-dsm.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
+              "RelativeToolTip": "reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T00:19:05.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251002001021_CriandoEntidadeUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251002001021_CriandoEntidadeUsuario.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Migrations\\20251002001021_CriandoEntidadeUsuario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251002001021_CriandoEntidadeUsuario.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Migrations\\20251002001021_CriandoEntidadeUsuario.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:10:21.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20251001234242_CriacaoDoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251001234242_CriacaoDoBanco.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Migrations\\20251001234242_CriacaoDoBanco.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251001234242_CriacaoDoBanco.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Migrations\\20251001234242_CriacaoDoBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:42:42.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\appsettings.json",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\appsettings.json",
+              "RelativeToolTip": "reserva-de-sala-dsm\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T23:31:29.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Program.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Program.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:10:58.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\TPII\\projeto-sala\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Data\\BancoContext.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:04:08.663Z"
             }
           ]
         }
